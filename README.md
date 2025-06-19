@@ -8,14 +8,6 @@
 
 Built with Angular, NestJS, and Google's Gemini AI.
 
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](https://github.com/Malu2003/resume-screening)
-[![Angular](https://img.shields.io/badge/Angular-17+-red?style=for-the-badge&logo=angular)](https://angular.io)
-[![NestJS](https://img.shields.io/badge/NestJS-10+-ea2845?style=for-the-badge&logo=nestjs)](https://nestjs.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
-[![AI Powered](https://img.shields.io/badge/AI-Gemini%20AI-orange?style=for-the-badge&logo=google)](https://ai.google.dev)
-
-[🚀 Live Demo](https://your-demo-link.com) • [📖 Documentation](https://github.com/Malu2003/resume-screening/wiki) • [🐛 Report Bug](https://github.com/Malu2003/resume-screening/issues) • [✨ Request Feature](https://github.com/Malu2003/resume-screening/issues)
-
 </div>
 
 ---
