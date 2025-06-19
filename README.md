@@ -317,28 +317,6 @@ git push origin feature/amazing-feature
 
 ---
 
-## 📈 **Roadmap & Future Features**
-
-```mermaid
-gantt
-    title Resume Screening Tool Development Roadmap
-    dateFormat  YYYY-MM-DD
-    section Phase 1 ✅
-    Core Features    :done, phase1, 2024-01-01, 2024-02-01
-    AI Integration   :done, phase1a, 2024-02-01, 2024-02-15
-    Chatbot Feature  :done, phase1b, 2024-02-15, 2024-03-01
-    
-    section Phase 2 🚧
-    User Accounts    :active, phase2, 2024-03-01, 2024-04-01
-    Resume Templates :phase2a, 2024-03-15, 2024-04-15
-    Analytics Dashboard :phase2b, 2024-04-01, 2024-05-01
-    
-    section Phase 3 📋
-    Mobile App       :phase3, 2024-05-01, 2024-07-01
-    API Marketplace  :phase3a, 2024-06-01, 2024-08-01
-    Enterprise Features :phase3b, 2024-07-01, 2024-09-01
-```
-
 ## 🙏 **Acknowledgments**
 
 <div align="center">
