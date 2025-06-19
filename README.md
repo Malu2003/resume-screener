@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Resume Screening Tool Banner](https://via.placeholder.com/800x200/4a90e2/ffffff?text=AI-Powered+Resume+Screening+Tool)
 
 **A powerful, AI-driven resume analysis tool that helps job seekers optimize their resumes for better job matches.**
 
